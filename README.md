@@ -50,13 +50,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![Stats](https://github-stats-extended.vercel.app/api?username=LucasPereirax&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=LucasPereirax&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 🐍 Snake animation (gráfico de contribuições)
 
 ![snake animation](https://raw.githubusercontent.com/LucasPereirax/LucasPereirax/output/github-contribution-grid-snake.svg)
