@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Pereira+%F0%9F%91%8B;Desenvolvedor+Júnior+em+forma%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+%F0%9F%91%8B;Desenvolvedor+Júniot+em+forma%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LucasPereirax&label=Visitas+no+perfil&color=7aa2f7&style=flat-square)
 
